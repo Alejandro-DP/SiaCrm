@@ -24,7 +24,7 @@
 	   		<input class="btn btn-lg btn-primary btn-block" id="btn" type="submit" name="enviar" value="Accesar">
         </div>
 	</form> -->
- <!--    <body class="my-login-page">
+    <body class="my-login-page">
 	<section class="h-100">
 		<div class="container h-100">
 			<div class="row justify-content-md-center h-100">
@@ -67,7 +67,7 @@
 				</div>
 			</div>
 		</div>
-	</section> -->
+	</section>
 
 
 
