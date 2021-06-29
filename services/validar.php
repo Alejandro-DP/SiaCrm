@@ -16,7 +16,7 @@ echo"location.href='./Views/dashboard.php';"
 else
 {
 	echo "<script>
-		  alert('No tienes acceso al sistema');
+		  
 		  location.href='./login.php';
 	</script>";
 }
