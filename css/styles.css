@@ -4,14 +4,14 @@ html,body {
 }
 
 body.my-login-page {
-	/* background: linear-gradient(to right, #3a7fd5, #6ebce2); */
-    background-image: url("https://static.wixstatic.com/media/4fddf6_395a4c55855b42758697ab6776d3646a~mv2.png/v1/fill/w_980,h_885,al_c,q_90,usm_0.66_1.00_0.01/4fddf6_395a4c55855b42758697ab6776d3646a~mv2.webp");
+	background: linear-gradient(to right, #3a7fd5, #6ebce2);
+   /*  background-image: url("https://static.wixstatic.com/media/4fddf6_395a4c55855b42758697ab6776d3646a~mv2.png/v1/fill/w_980,h_885,al_c,q_90,usm_0.66_1.00_0.01/4fddf6_395a4c55855b42758697ab6776d3646a~mv2.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
     background-color: #6699;
-	font-size: 14px;
+	font-size: 14px; */
 }
 
 .my-login-page .brand {
