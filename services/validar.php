@@ -17,7 +17,7 @@ else
 {
 	echo "<script>
 		  
-		  location.href='./login.php';
+		  location.href='../login.php';
 	</script>";
 }
 ?>
