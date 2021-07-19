@@ -61,6 +61,8 @@ background: linear-gradient(to right, #3a7fd5, #6ebce2);
 	text-align: center;
 }
 .custom-c{
+
+    opacity: 70%;
     border-radius: 10px;
 }
 
