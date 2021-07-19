@@ -1,11 +1,8 @@
 html,body {
 	height: 100%;
-    
+    background: linear-gradient(to right, #3a7fd5, #6ebce2);
 }
-.my-login-page {
-	
-	background: linear-gradient(to right, #3a7fd5, #6ebce2);
-} 
+
 
 .my-login-page .brand {
 	width: 90px;
