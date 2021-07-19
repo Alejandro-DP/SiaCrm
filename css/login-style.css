@@ -60,6 +60,9 @@ background: linear-gradient(to right, #3a7fd5, #6ebce2);
     
 	text-align: center;
 }
+.custom-c{
+    border-radius: 10px;
+}
 
 @media screen and (max-width: 425px) {
 	.my-login-page .card-wrapper {

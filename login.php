@@ -33,7 +33,7 @@
 						<img src="https://static.wixstatic.com/media/4fddf6_6e0b5a629f9d4fa289ec266ca6bbecd4~mv2.png/v1/fill/w_79,h_79,al_c,q_85,usm_0.66_1.00_0.01/logoinferior.webp" alt="logo">
 					</div>
 					<div class="card fat">
-						<div class="card-body">
+						<div class="card-body custom-c">
 							<h4 class="card-title">SIA</h4>
 							<form action="/SiaCrm/services/validar.php" method="POST" >
 								<div class="form-group">
